@@ -20,7 +20,8 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 <a href=""><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 <!-- <a href=""><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> -->
-   
+
+![](https://komarev.com/ghpvc/?username=kylecurtis)
 
 <br>
 
@@ -38,7 +39,7 @@ const About = {
 
 <br>
 
-### What I'm Using
+## 🛠️ What I'm Using
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -49,46 +50,38 @@ const About = {
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br>
-
----
-
+<br>
+<br>
 <br>
 
-### What I'm Learning
+## 📡 On My Radar
 
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C-Plus-Plus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Rust" width="40px" style="padding-right:10px;" src="https://github.com/kylecurtis/kylecurtis/assets/30717363/7fab7dbc-89c3-4cae-83be-4e98a58b1e3d" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 <br>
-
----
-
 <br>
+<br>
+<br>
+
+## 🚀 My Git Stats
 
 <a href="http://www.github.com/kylecurtis"><img src="https://github-readme-stats.vercel.app/api?username=kylecurtis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kylecurtis's GitHub stats" /></a>
 
 <br>
-
----
-
 <br>
 
 <a href="https://github.com/kylecurtis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylecurtis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br>
-
----
-
 <br>
+<br>
+
+## Contributions
 
 <a href="https://www.buymeacoffee.com/kylecurtis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <br>
-
----
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=kylecurtis)
