@@ -27,7 +27,7 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 
 ```typescript
 const About = {
-    system: 'GNU/Linux',
+    system: ['Linux', 'Windows'],
     skills: ['React', 'Node', 'Git'],
     stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'Lua', 'Bash'],
     tools: ['Next.JS', 'Vite', 'TailwindCSS', 'Sass'], 
