@@ -30,7 +30,7 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 const About = {
     system: ['Linux', 'Windows'],
     skills: ['React', 'Node', 'Git'],
-    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'Lua', 'Bash'],
+    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'C++', 'Lua', 'Bash'],
     tools: ['Next.JS', 'Vite', 'TailwindCSS', 'Sass'], 
     editors: ['Neovim', 'VSCode', 'Obsidian'],
     hardWorker: true,
@@ -45,8 +45,8 @@ const About = {
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C-Plus-Plus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
@@ -57,8 +57,6 @@ const About = {
 
 ## 📡 On My Radar
 
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C-Plus-Plus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Rust" width="40px" style="padding-right:10px;" src="https://github.com/kylecurtis/kylecurtis/assets/30717363/7fab7dbc-89c3-4cae-83be-4e98a58b1e3d" />
 <img align="left" alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -71,12 +69,12 @@ const About = {
 
 ## 🚀 My Git Stats
 
-<a href="http://www.github.com/kylecurtis"><img src="https://github-readme-stats-kyle-curtis.vercel.app/api?username=kylecurtis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical&show_icons=true" alt="kylecurtis's GitHub stats" /></a>
+![Github Stats](https://github-readme-stats-kyle-curtis.vercel.app/api?username=kylecurtis&show_icons=true&theme=radical&custom_title=My%20Github%20Stats)
 
 <br>
 <br>
 
-<a href="https://github.com/kylecurtis" align="left"><img src="https://github-readme-stats-kyle-curtis.vercel.app/api/top-langs/?username=kylecurtis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=radical" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats-kyle-curtis.vercel.app/api/top-langs/?username=kylecurtis&theme=radical&custom_title=Top%20%Languages&langs_count=10&layout=donut)](https://github.com/kylecurtis/github-readme-stats)
 
 <br>
 
