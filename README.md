@@ -30,7 +30,7 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 const About = {
     system: ['Linux', 'Windows'],
     skills: ['React', 'Node', 'Git'],
-    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'C++', 'Lua', 'Bash'],
+    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'Lua', 'Bash'],
     tools: ['Next.JS', 'Vite', 'TailwindCSS', 'Sass'], 
     editors: ['Neovim', 'VSCode', 'Obsidian'],
     hardWorker: true,
@@ -46,7 +46,6 @@ const About = {
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C-Plus-Plus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
