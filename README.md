@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Curtis
 ===================================================================================================================================
 
-I'm a full-stack software developer with expertise in React, Next.js, Vite, and other cutting-edge technologies. While I'm passionate about creating modern web experiences, I also invest my time in learning new technologies, building video games, maintaining educational notes for the tech community, and producing music for others to enjoy.
+I'm a full-stack software developer with expertise in React, Next.js, Astro, Vite, and other cutting-edge technologies. While I'm passionate about creating modern web experiences, I also invest my time in learning new technologies, building video games, maintaining educational notes for the tech community, and producing music for others to enjoy.
 
 When I'm not busy creating, you'll find me sharpening my skills on platforms like CodeWars and LeetCode. Whether it's a challenging algorithm or an intriguing development project, I'm always ready to take on the next challenge.
 
@@ -16,8 +16,8 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/QuotidianDev"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
-<a href="https://leetcode.com/QuotidianDev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 <!-- <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 <!-- <a href=""><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> -->
@@ -30,8 +30,9 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 const About = {
     system: ['Linux', 'Windows'],
     skills: ['React', 'Node', 'Git'],
-    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'Lua', 'Bash'],
-    tools: ['Next.JS', 'Vite', 'TailwindCSS', 'Sass'], 
+    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'C++', 'Bash'],
+    radar: ['Rust', 'Go', 'MySQL', 'MongoDB'],
+    tools: ['Next.JS', 'Astro', 'Vite', 'TailwindCSS', 'Sass'], 
     editors: ['Neovim', 'VSCode', 'Obsidian'],
     hardWorker: true,
     problemSolver: true
@@ -40,13 +41,13 @@ const About = {
 
 <br>
 
-## 🛠️ What I'm Using
+## 🛠️ Languages I Use
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br>
