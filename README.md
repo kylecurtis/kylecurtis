@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Curtis
 ===================================================================================================================================
 
-I'm a full-stack software developer with expertise in React, Next.js, Astro, Vite, and other cutting-edge technologies. While I'm passionate about creating modern web experiences, I also invest my time in learning new technologies, building video games, maintaining educational notes for the tech community, and producing music for others to enjoy.
+I'm a software developer with expertise in Web, Desktop, mobile, and other cutting-edge technologies. While I'm passionate about creating modern user experiences, I also invest my time in learning new technologies, building video games, maintaining educational notes for the tech community, and producing music for others to enjoy.
 
 When I'm not busy creating, you'll find me sharpening my skills on platforms like CodeWars and LeetCode. Whether it's a challenging algorithm or an intriguing development project, I'm always ready to take on the next challenge.
 
@@ -28,14 +28,12 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 
 ```typescript
 const About = {
-    system: ['Linux', 'Windows'],
-    skills: ['React', 'Node', 'Git'],
-    stack: ['HTML5', 'CSS3', 'TypeScript', 'Python', 'C++', 'Bash'],
-    radar: ['Rust', 'Go', 'MySQL', 'MongoDB'],
-    tools: ['Next.JS', 'Astro', 'Vite', 'TailwindCSS', 'Sass'], 
-    editors: ['Neovim', 'VSCode', 'Obsidian'],
-    hardWorker: true,
-    problemSolver: true
+    system: ['GNU/Linux', 'Windows'],
+    web: ['HTML', 'CSS', 'TypeScript', 'React', 'NextJS'],
+    tools: ['Python', 'C++', 'Bash'],
+    data: ['Jupyter', 'Pandas', 'Matplotlib', 'Plotly'],
+    editors: ['Neovim', 'PyCharm', 'VSCode'],
+    radar: ['MySQL'],
 }
 ```
 
@@ -49,7 +47,8 @@ const About = {
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
+<img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          
 <br>
 <br>
 <br>
