@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Curtis
 ===================================================================================================================================
 
-I'm a software developer with expertise in Web, Desktop, mobile, and other cutting-edge technologies. While I'm passionate about creating modern user experiences, I also invest my time in learning new technologies, building video games, maintaining educational notes for the tech community, and producing music for others to enjoy.
+I'm a software developer with expertise in Web, Desktop, mobile, and other cutting-edge technologies. While I'm passionate about creating modern user experiences, I also invest my time in 3D design, learning new technologies, maintaining educational notes for the tech community, and producing music for others to enjoy.
 
 When I'm not busy creating, you'll find me sharpening my skills on platforms like CodeWars and LeetCode. Whether it's a challenging algorithm or an intriguing development project, I'm always ready to take on the next challenge.
 
@@ -48,18 +48,6 @@ const About = {
 <img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-          
-<br>
-<br>
-<br>
-<br>
-
-## 📡 On My Radar
-
-<img align="left" alt="Rust" width="40px" style="padding-right:10px;" src="https://github.com/kylecurtis/kylecurtis/assets/30717363/7fab7dbc-89c3-4cae-83be-4e98a58b1e3d" />
-<img align="left" alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 <br>
 <br>
