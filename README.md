@@ -26,15 +26,22 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 
 <br>
 
-```typescript
-const About = {
-    system: ['GNU/Linux', 'Windows'],
-    web: ['HTML', 'CSS', 'TypeScript', 'React', 'NextJS'],
-    tools: ['Python', 'C++', 'Bash'],
-    data: ['Jupyter', 'Pandas', 'Matplotlib', 'Plotly'],
-    editors: ['Neovim', 'PyCharm', 'VSCode'],
-    radar: ['MySQL'],
-}
+```python
+class About:
+  def __init__(self):
+      self.skills = ['React', 'Git']
+      self.stack = ['TypeScript', 'Python', 'Bash']
+      self.learning = ['C++', 'Rust']
+      self.system = ['Windows', 'Linux']
+      self.hard_worker = True
+      self.problem_solver = True
+      self.hirable = True
+
+  def __str__(self):
+      return ', \n'.join(f"{attr.capitalize()}: {getattr(self, attr)}" for attr in self.__dict__)
+
+about_me = About()
+print(about_me)
 ```
 
 <br>
