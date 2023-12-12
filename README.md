@@ -36,12 +36,6 @@ class About:
       self.hard_worker = True
       self.problem_solver = True
       self.hirable = True
-
-  def __str__(self):
-      return ', \n'.join(f"{attr.capitalize()}: {getattr(self, attr)}" for attr in self.__dict__)
-
-about_me = About()
-print(about_me)
 ```
 
 <br>
