@@ -1,9 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Curtis
 ===================================================================================================================================
 
+![Web Development](https://img.shields.io/badge/Web_Development-lightskyblue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightpink) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-lightsalmon)   ![Music Production](https://img.shields.io/badge/Music_Production-lightgreen) ![Graphics_&_Design](https://img.shields.io/badge/Graphics_&_Design-lightgoldenrodyellow)
+
 I'm a software developer with expertise in web, desktop, mobile, and other cutting-edge technologies. While I'm passionate about creating modern user experiences, I also invest my time in 3D design, learning new technologies, maintaining educational notes for the tech community, and producing music for others to enjoy.
 
 When I'm not busy creating, you'll find me sharpening my skills on platforms like CodeWars and LeetCode. Whether it's a challenging algorithm or an intriguing development project, I'm always ready to take on the next challenge.
+
+[kylecurtis.dev](https://www.kylecurtis.dev)
 
 <br>
 
@@ -22,15 +26,13 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 <!-- <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 <!-- <a href=""><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> -->
 
-![](https://komarev.com/ghpvc/?username=kylecurtis)
-
 <br>
 
 ```python
 class About:
   def __init__(self):
-      self.skills = ['React', 'Git']
-      self.stack = ['TypeScript', 'Python', 'Bash']
+      self.skills = ['React', 'Git', 'Bash']
+      self.stack = ['TypeScript', 'Python', 'C#']
       self.learning = ['C++', 'Rust']
       self.system = ['Windows', 'Linux']
       self.hard_worker = True
@@ -71,3 +73,5 @@ class About:
 <a href="https://www.buymeacoffee.com/kylecurtis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=kylecurtis)
