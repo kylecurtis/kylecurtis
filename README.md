@@ -30,27 +30,38 @@ When I'm not busy creating, you'll find me sharpening my skills on platforms lik
 
 ```python
 class About:
-  def __init__(self):
-      self.skills = ['React', 'Git', 'Bash']
-      self.stack = ['TypeScript', 'Python', 'C#']
-      self.learning = ['C++', 'Rust']
-      self.system = ['Windows', 'Linux']
-      self.hard_worker = True
-      self.problem_solver = True
-      self.hirable = True
+    def __init__(self):
+        self.system = ['Windows', 'Linux']
+        self.skills = ['React', 'Git']
+        self.stack = ['TypeScript', 'Python', 'Bash']
+        self.tools = ['Pandas', 'PyTorch', 'Plotly']
+        self.learning = ['C', 'C++', 'Rust']
 ```
 
 <br>
 
-## 🛠️ Languages I Use
+## 🛠️ My Development Tools
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
+
+<br>
+<br>
+<br>
+<br>
+
+## 📓 What I'm Learning
+
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
 
 <br>
 <br>
