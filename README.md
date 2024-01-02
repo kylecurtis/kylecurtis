@@ -65,15 +65,6 @@ Interactive Jupyter notebook for learning the modern Python programming language
 
 <br>
 
-## 🚀 My Git Stats
-
-![Github Stats](https://github-readme-stats-kyle-curtis.vercel.app/api?username=kylecurtis&show_icons=true&theme=radical&custom_title=My%20Github%20Stats)
-
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats-kyle-curtis.vercel.app/api/top-langs/?username=kylecurtis&theme=radical&custom_title=Top%20%Languages&langs_count=10&layout=donut)](https://github.com/kylecurtis/github-readme-stats)
-
 <br>
 
 ## Contributions
