@@ -35,7 +35,7 @@ class About:
 
 #### [📓 Interactive Python Notebook](https://github.com/kylecurtis/interactive-python)
 
-Interactive Jupyter notebook for learning the modern Python programming language 🐍. 
+An interactive reference guide for the modern-day Python programming language 🐍.
 
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 ![GitHub Stars](https://img.shields.io/github/stars/kylecurtis/interactive-python) ![GitHub forks](https://img.shields.io/github/forks/kylecurtis/interactive-python)
