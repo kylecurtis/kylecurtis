@@ -31,7 +31,7 @@ class About:
 
 <br>
 
-## 👀 What I'm Working On
+## 🚀 What I'm Working On
 
 #### [📓 Interactive Python](https://github.com/kylecurtis/interactive-python)
 
