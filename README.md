@@ -33,7 +33,7 @@ class About:
 
 ## 🚀 What I'm Working On
 
-#### [📓 Interactive Python](https://github.com/kylecurtis/interactive-python)
+#### [🐍 Interactive Python](https://github.com/kylecurtis/interactive-python)
 
 An interactive reference guide for the modern-day Python programming language 🐍.
 
