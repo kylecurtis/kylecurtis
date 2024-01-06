@@ -19,11 +19,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ```python
 class About:
     def __init__(self):
-        self.system = ['Windows', 'Linux']
-        self.skills = ['React', 'Git']
-        self.stack = ['TypeScript', 'Python', 'Bash']
-        self.tools = ['Pandas', 'PyTorch', 'Plotly']
-        self.learning = ['C', 'C++', 'Rust']
+        self.system = ["Windows", "Linux"]
+        self.skills = ["React", "Git"]
+        self.stack = ["TypeScript", "Python", "Bash"]
+        self.tools = ["Pandas", "PyTorch", "Plotly"]
+        self.learning = ["C", "C++", "Rust"]
 ```
 
 <!-- <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
