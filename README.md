@@ -40,6 +40,15 @@ An interactive reference guide for the modern-day Python programming language ðŸ
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 ![GitHub Stars](https://img.shields.io/github/stars/kylecurtis/interactive-python) ![GitHub forks](https://img.shields.io/github/forks/kylecurtis/interactive-python)
 
+<br>
+
+### [Interactive ML](https://github.com/kylecurtis/interactive-ml)
+
+An Interactive Jupyter Notebook for in-depth learning and teaching of ML concepts, algorithms, and practical applications ðŸ§ .
+
+<!-- https://shields.io/badges/git-hub-repo-stars -->
+![GitHub Stars](https://img.shields.io/github/stars/kylecurtis/interactive-ml) ![GitHub forks](https://img.shields.io/github/forks/kylecurtis/interactive-ml)
+
 
 
 <br>
