@@ -10,10 +10,6 @@ My name is Kyle Curtis, and I'm a Software Development student with a lifelong p
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="32" />
 
-<br>
-
-### 🧠 Learning
-
 <img src="https://github.com/kylecurtis/kylecurtis/assets/30717363/62f11e48-2346-459a-ae33-f12f2f0b37b0" height="32" />
 
 <br>
