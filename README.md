@@ -2,10 +2,7 @@
 
 My name is Kyle Curtis, and I'm a Software Development student with a lifelong passion for technology. I'm currently pursuing a Bachelor’s Degree to deepen my expertise, and actively documenting my overall learning journey [in my notes](https://github.com/kylecurtis/md-notes).
 
-<br>
-
 ---
-
 
 ### 🔥 Tech Stack
 
