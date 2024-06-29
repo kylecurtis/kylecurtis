@@ -1,6 +1,6 @@
 # Hello / Hola 👋,
 
-<img width="150px" align="left" src="https://github.com/kylecurtis/kylecurtis/assets/30717363/afd1bc8f-cd5f-4317-b53e-9eaa35486519" />
+<img width="140px" align="left" src="https://github.com/kylecurtis/kylecurtis/assets/30717363/afd1bc8f-cd5f-4317-b53e-9eaa35486519" />
 
 My name is Kyle Curtis 🧔:
 
