@@ -13,7 +13,7 @@ My name is Kyle Curtis 🧔,
 
 ## 🚀 What I'm Working On
 
-- [Kickstart C#](https://github.com/kylecurtis/kickstart-csharp) - Free and Open-Source resources to kickstart your C#/.NET career.
+- [Kickstart C#](https://github.com/kylecurtis/kickstart-csharp) - Free and open-source documentation and hands-on projects to kickstart your full-stack C#/.NET development career.
 
 <br>
 
