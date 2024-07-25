@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/786bcf0d-11cc-419d-849d-25119897e567" width="300" align="left">
+<img src="https://github.com/user-attachments/assets/786bcf0d-11cc-419d-849d-25119897e567" width="200" align="left">
 
 [Kickstart C#](https://kickstartcsharp.com/) - Free and open-source documentation and hands-on projects to kickstart your full-stack C#/.NET development career.
 
