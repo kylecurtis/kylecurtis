@@ -12,6 +12,6 @@ My name is Kyle Curtis and I am a Computer Science student and C++ software engi
 
 > [./solutions](https://github.com/kylecurtis/solutions) - All of my leetcode (and similar) solutions using the C++ programming language.
 
-> [./algorithms](https://github.com/kylecurtis/cpp-algorithms) - A collection of algorithms using the C++ programming language.
+> [./cpp-algorithms](https://github.com/kylecurtis/cpp-algorithms) - A collection of algorithms using the C++ programming language.
 
 > [./leetnotes](https://github.com/kylecurtis/leetnotes) - A collection of various notes primarily for LeetCode.
