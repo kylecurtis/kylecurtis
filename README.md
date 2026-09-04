@@ -1,16 +1,35 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td valign="top" width="30%">
+      <img alt="Me sitting at my first computer" src="https://github.com/user-attachments/assets/c54644f3-8273-4cc2-9b3d-76047482a59a" />
+    </td>
+    <td valign="top">
 
-<!--
-**kylecurtis/kylecurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome! 👋
 
-Here are some ideas to get you started:
+**My name is Kyle, and I am a C++ Software Engineer.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  </td>
+  </tr>
+</table>
+
+```cpp
+#include <array>
+#include <string_view>
+
+struct About {
+    std::string_view name{"Kyle Curtis"};
+
+    constexpr auto interests = std::to_array<std::string_view>({
+        "Linux", "Systems", "Security", "Graphics",
+    });
+
+    constexpr auto stack = std::to_array<std::string_view>({
+        "C++", "Qt", "OpenGL", "CMake", "LLVM",
+    });
+};
+
+constexpr About me{};
+```
