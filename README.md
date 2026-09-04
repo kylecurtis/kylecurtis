@@ -9,7 +9,7 @@
 
 **My name is Kyle, and I am a C++ Software Engineer.**
 
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,bash,qt,cmake,clion,vim,obsidian,md,latex,)](https://skillicons.dev)
 
   </td>
   </tr>
